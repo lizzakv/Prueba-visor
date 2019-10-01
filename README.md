@@ -1,4 +1,3 @@
-# Prueba-visor
 <!DOCTYPE html>
 <html>
 <section class="webdesigntuts-workshop">
